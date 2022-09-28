@@ -169,7 +169,7 @@ main{
 	height: 100px;
 	width: 100px;
 	padding: 0px;
-	background-image: url(Images/recently-played-2.png);
+	background-image: url(Images/recently-played.jpg);
 	background-position: center;
 	background-size: cover;
 	color: var(--font_color_1);
